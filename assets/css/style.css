@@ -1,24 +1,14 @@
-/**
-* Template Name: Bootslander - v2.2.0
-* Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
 a {
-  color: #1acc8d;
+  color: #5ce1e6;
 }
 
 a:hover {
-  color: #34e5a6;
+  color: #5ce1e6;
   text-decoration: none;
 }
 
@@ -45,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #1acc8d;
+  border: 6px solid #5ce1e6;
   border-top-color: #d2f9eb;
   border-radius: 50%;
   width: 60px;
@@ -82,9 +72,9 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   margin: 50px auto;
   padding: 10px;
-  box-shadow: 0 0 0 0 #7ceec6;
+  box-shadow: 0 0 0 0 #5ce1e6;
   border-radius: 10px;
-  background-color: #15bb62;
+  background-color: #5ce1e6;
   -webkit-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   -moz-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   -ms-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
@@ -154,13 +144,13 @@ a.pulsingButton:hover {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #1acc8d;
+  background: #5ce1e6;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #2be4a2;
+  background: #2cbbc0;
   color: #fff;
 }
 
@@ -261,7 +251,7 @@ a.pulsingButton:hover {
   height: 2px;
   bottom: 3px;
   left: 25px;
-  background-color: #1acc8d;
+  background-color: #5ce1e6;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -312,7 +302,7 @@ a.pulsingButton:hover {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #1acc8d;
+  color: #5ce1e6;
 }
 
 .nav-menu .drop-down > a:after {
@@ -407,7 +397,7 @@ a.pulsingButton:hover {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #1acc8d;
+  color: #5ce1e6;
   text-decoration: none;
 }
 
@@ -494,7 +484,7 @@ a.pulsingButton:hover {
 
 #hero h1 span {
   color: #fff;
-  border-bottom: 4px solid #1acc8d;
+  border-bottom: 4px solid #5ce1e6;
 }
 
 #hero h2 {
@@ -513,7 +503,7 @@ a.pulsingButton:hover {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: #1acc8d;
+  background: #5ce1e6;
 }
 
 #hero .btn-get-started:hover {
@@ -710,7 +700,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #1acc8d;
+  background: #5ce1e6;
   margin: 4px 10px;
 }
 
@@ -844,7 +834,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #149f6e;
+  border-left: 2px solid #5ce1e6;
   position: relative;
 }
 
@@ -888,7 +878,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #149f6e;
+  border: 2px solid #5ce1e6;
 }
 
 
@@ -910,19 +900,19 @@ section {
   justify-content: center;
   width: 64px;
   height: 64px;
-  border: 2px solid #7ceec6;
+  border: 2px solid #2cbbc0;
   border-radius: 50px;
   transition: 0.5s;
 }
 
 .about .icon-box .icon i {
-  color: #1acc8d;
+  color: #5ce1e6;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #1acc8d;
-  border-color: #1acc8d;
+  background: #5ce1e6;
+  border-color: #5ce1e6;
 }
 
 .about .icon-box:hover .icon i {
@@ -942,7 +932,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #1acc8d;
+  color: #5ce1e6;
 }
 
 .about .icon-box .description {
@@ -1112,7 +1102,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #1acc8d;
+  background: #5ce1e6;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -1157,7 +1147,7 @@ section {
 .details .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1acc8d;
+  color: #5ce1e6;
 }
 
 .details .content p:last-child {
@@ -1261,7 +1251,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #18d26e !important;
+  background-color: #5ce1e6 !important;
 }
 
 @media (max-width: 767px) {
@@ -1309,7 +1299,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #34e5a6;
+  color: #5ce1e6;
 }
 
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
@@ -1333,7 +1323,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #1acc8d;
+  color: #5ce1e6;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1366,7 +1356,7 @@ section {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: #5ce1e6;
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -1403,7 +1393,7 @@ section {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #18d26e;
+  color: #5ce1e6;
 }
 
 .contact .php-email-form {
@@ -1435,7 +1425,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #18d26e;
+  background: #5ce1e6;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1455,7 +1445,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #5ce1e6;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1509,15 +1499,15 @@ section {
 }
 
 .contact .section-title p{
-  color: #149f6e;
+  color: #5ce1e6;
 }
 
 .contact .contact .info-box i.bx:hover{
-  background: #149f6e;
+  background: #5ce1e6;
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #18d26e;
+  background: #5ce1e6;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1526,7 +1516,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #15bb62;
+  background: #5ce1e6;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1546,5 +1536,3 @@ section {
     transform: rotate(360deg);
   }
 }
-
-
