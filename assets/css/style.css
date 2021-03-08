@@ -947,6 +947,12 @@ section {
   min-height: 300px;
 }
 
+#expansion .video-box {
+  background: url("../img/redes-de-mercadeo.jpg")no-repeat;
+  background-size: contain;
+  min-height: 300px;
+}
+
 .about .play-btn {
   width: 94px;
   height: 94px;
