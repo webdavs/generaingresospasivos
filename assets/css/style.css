@@ -81,7 +81,6 @@ h1, h2, h3, h4, h5, h6 {
   animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   font-size: 22px;
   font-weight: normal;
-  font-family: sans-serif;
   text-decoration: none !important;
   color: #ffffff;
   transition: all 300ms ease-in-out;
@@ -241,7 +240,6 @@ a.pulsingButton:hover {
   transition: 0.3s;
   font-size: 15px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
 }
 
 .nav-menu > ul > li > a:before {
@@ -692,7 +690,6 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
 }
 
 .section-title h2::after {
@@ -710,7 +707,6 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
   color: rgba(6, 6, 12, 0.904);
 }
 
@@ -843,7 +839,6 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
   color: #050d18;
   margin-bottom: 10px;
 }
@@ -1232,7 +1227,6 @@ section {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
   background: rgb(12, 13, 24)
@@ -1292,7 +1286,6 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
